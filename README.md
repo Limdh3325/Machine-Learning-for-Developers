@@ -1,4 +1,5 @@
 # Machine Learning for Developers
+# Machine Learning for Developers 의 코드를 블로그를 위해 한글 주석 작업중 입니다 
 This is the code repository for [Machine Learning for Developers](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-developers?utm_source=github&utm_medium=repository&utm_campaign=9781786469878), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Most of us have heard about the term Machine Learning, but surprisingly the question frequently asked by developers across the globe is, “How do I get started in Machine Learning?”. One reason could be attributed to the vastness of the subject area because people often get overwhelmed by the abstractness of ML and terms such as regression, supervised learning, probability density function, and so on. This book is a systematic guide teaching you how to implement various Machine Learning techniques and their day-to-day application and development.
